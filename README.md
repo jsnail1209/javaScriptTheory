@@ -1,1 +1,8 @@
-# javaScriptTheory
+# JavaScriptTheory
+공부기간: 2022.01 ~ 2022.02
+
+공부목적: 자바스크립트 이론 이해
+
+교재: 자바스크립트 완벽 가이드 (데이비드 플래너건 저)
+<img src = "자바스크립트 교재.jpg" width="107" height="200">
+
